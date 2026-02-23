@@ -3,6 +3,8 @@ This project was submitted as my final for USC's TAC438, Advanced Gameplay Progr
 
 # Notable Features
 ## Gameplay:
+- supports multiple maps and saves
+- supports capture and deathmatch game modes
 - spawn immunity
   - players can shoot but not take damage
 - best of 3
@@ -15,7 +17,7 @@ This project was submitted as my final for USC's TAC438, Advanced Gameplay Progr
   - sound effects for objects in sequences
   - preserves team points across rounds
  
-## UI:
+##  Capture UI:
 - counter to display how many points a team has from winning rounds
 - indicator of player(s) contesting the point
   - only appears if both teams have players on the point
